@@ -1,0 +1,44 @@
+
+:root{
+    --bg-main-color:#1866BF;
+}
+
+
+.dark-bg{
+    background-color: #00468B;
+}
+.btn-bg{
+background-color: #1E42D9 !important;
+}
+.link-bg:hover{
+    background-color: #1866BF !important;
+}
+
+.center-cell{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+.input-outline{
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08) !important;
+    border: 1px solid #00468B !important;
+}
+ .head{
+    font-family: Times New Roman, Times, serif;
+}
+
+th{
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.text1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+
